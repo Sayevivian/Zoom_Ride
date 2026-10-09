@@ -1,6 +1,6 @@
 ZoomRide Trip Data Analysis Using SQL
 
-  Project Overview
+ Project Overview
 
 The ZoomRide project involved analyzing ride-hailing data to understand revenue performance, customer activity, and trip patterns across different cities and vehicle categories. SQL was used to examine the data, correct inconsistencies, and generate insights that could help management make informed business decisions.
 
@@ -48,17 +48,17 @@ LEFT JOIN to identify registered customers with no recorded trips.
 The analysis focused on completed trips when calculating revenue.
 
   Key Findings
-1. Revenue Performance by City
+  1. Revenue Performance by City
 
-Lagos was the strongest-performing city in terms of revenue, generating ₦218,890 from 93 completed trips. This makes Lagos a potential priority for targeted marketing and further business growth.
+     Lagos was the strongest-performing city in terms of revenue, generating ₦218,890 from 93 completed trips. This makes Lagos a potential priority for targeted marketing and further       business growth.
 
-2. Monthly Ride Activity
+  2. Monthly Ride Activity
 
-December 2025 recorded the highest number of completed trips, with 31 rides. The month also generated ₦66,980 in revenue, making it a useful period for examining seasonal demand and planning driver availability.
+     December 2025 recorded the highest number of completed trips, with 31 rides. The month also generated ₦66,980 in revenue, making it a useful period for examining seasonal demand and planning driver availability.
 
-3. Revenue by Vehicle Category
+  3. Revenue by Vehicle Category
 
-Economy vehicles generated the highest revenue among the vehicle categories, contributing ₦262,550 from 121 completed trips. This suggests that the category plays an important role in ZoomRide's overall revenue performance.
+     Economy vehicles generated the highest revenue among the vehicle categories, contributing ₦262,550 from 121 completed trips. This suggests that the category plays an important role in ZoomRide's overall revenue performance.
 
   Additional Data Quality Observations
 
